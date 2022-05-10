@@ -49,7 +49,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.GhostWhite;
+            this.groupBox1.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.groupBox1.Controls.Add(this.kayıt_ol);
             this.groupBox1.Controls.Add(this.ogrenci_tarih);
             this.groupBox1.Controls.Add(this.label7);

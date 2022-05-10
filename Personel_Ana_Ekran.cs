@@ -10,24 +10,14 @@ using System.Windows.Forms;
 
 namespace Kütüphane_Otomasyon
 {
-    public partial class Kitap_Ara : Form
+    public partial class Personel_Ana_Ekran : Form
     {
-        public Kitap_Ara()
+        public Personel_Ana_Ekran()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox3_Enter(object sender, EventArgs e)
+        private void temizle_Click(object sender, EventArgs e)
         {
 
         }
